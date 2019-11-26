@@ -50,3 +50,5 @@ configuration relevant for your application.
 The app skeleton uses a subset of [Foundation](http://foundation.zurb.com/) (v5) CSS
 framework by default. You can, however, replace it with any other library or
 custom styles.
+
+Layout JS and CSS you can buy from sprukotechnologies@gmail.com  and copy in webroot css and js Folder to do have a nice and functional lay out 
